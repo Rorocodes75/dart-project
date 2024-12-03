@@ -8,13 +8,12 @@ void main(List<String> arguments) {
   print(checkLetters("abcdefghijklmNOPQRSTUVWXYZ"));
   print(checkLetters("The quick brown fox jumps over three meter and better than a lazy dog"));
   //q3 
-  print(checkCase("DARt"));
-
   //q4 
   //countLetters(" mississippi");
   countLetters(" successful");
   countLetters(" irresistibility");
   countLettersList("mississippi");
+  print("hello");
 
 
 }
